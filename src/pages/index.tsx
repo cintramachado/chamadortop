@@ -13,9 +13,9 @@ export default function Home() {
           Este é um sistema de gerenciamento de chamadas, onde você pode gerenciar suas ao Painel Eletrônico de forma eficiente e prática.
         </p>
       <Menubox 
-        imageSrc="path/to/image.jpg" 
-        title="Menu Title" 
-        description="Menu description goes here." 
+        imageSrc="/images/medico.jpeg" 
+        title="Cadastro de Médicos" 
+        description="Cadastrar, excluir e alterar médicos." 
         link="/desired-link" 
       />
       </main>

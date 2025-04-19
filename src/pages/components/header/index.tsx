@@ -1,6 +1,8 @@
 import Link  from "next/link";
 import React, { useState } from "react";
 import styles from "./header.module.css";
+
+<image></image>
 export default function Header() {
     const [isDropdownOpen, setIsDropdownOpen] = useState(false);
     return (
